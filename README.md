@@ -79,7 +79,3 @@ This is a team-developed project. Custom graphics, audio, firmware, and integrat
 - **Music and artwork:** the original game uses Touhou-themed assets. Luna Dial note data was converted from a publicly available MIDI of music composed by ZUN / Team Shanghai Alice. Asset attribution does not itself establish redistribution permission.
 
 No repository-wide open-source license is currently declared. Third-party components retain their respective terms; their licenses do not automatically cover the entire project or its artwork and music.
-
-## Development Notes
-
-For the C game logic in `game.c`, AI assistance was used for debugging, refactoring, and exploring design alternatives.
