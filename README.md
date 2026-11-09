@@ -1,4 +1,4 @@
-ECE 385 Final Project — TOUHOU INVADER
+TOUHOU INVADER
 A Touhou-themed bullet-hell shoot-'em-up running on a Xilinx MicroBlaze
 soft-core CPU with custom AXI peripherals (HDMI text controller, square-wave
 audio engine, DDR3 memory controller, and lwUSB HID keyboard via MAX3421E).
